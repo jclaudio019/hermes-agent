@@ -1,0 +1,122 @@
+# =========================
+# Graphify generated output
+# =========================
+graphify-out/
+.code-review-graph/
+
+# =========================
+# Git / caches / build outputs
+# =========================
+.git/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.turbo/
+*.egg-info/
+*.log
+
+# =========================
+# OS / editor / local state
+# =========================
+.DS_Store
+**/.DS_Store
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+.direnv/
+
+# =========================
+# Heavy generated dependency locks
+# Not useful for architecture/skills graph
+# =========================
+package-lock.json
+uv.lock
+flake.lock
+
+# =========================
+# Screenshots, images, static media, fonts
+# =========================
+.github/pr-screenshots/
+assets/
+infographic/
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.ico
+**/*.icns
+**/*.svg
+**/*.webp
+**/*.woff
+**/*.woff2
+**/*.ttf
+**/*.otf
+**/*.wav
+**/*.mp3
+**/*.mp4
+
+# =========================
+# App public/static assets
+# Keep source code, ignore bundled public/media assets
+# =========================
+apps/
+web/
+website/
+ui-tui/
+apps/desktop/assets/
+apps/desktop/public/
+apps/desktop/pr-assets/
+apps/bootstrap-installer/public/
+web/public/
+website/static/
+
+# =========================
+# Tests: noisy for first architecture/skills extraction
+# Re-include later only for behavior-specific audit
+# =========================
+tests/
+apps/desktop/electron/*.test.cjs
+apps/desktop/src/**/*.test.ts
+apps/desktop/src/**/*.test.tsx
+ui-tui/src/__tests__/
+ui-tui/src/**/*.test.ts
+ui-tui/src/**/*.test.tsx
+web/src/**/*.test.ts
+web/src/**/*.test.tsx
+
+# =========================
+# Optional skill marketplace/reference bulk
+# Keep core skills/, ignore optional-skills/ for first pass
+# =========================
+skills/
+optional-skills/
+skills/index-cache/
+
+# =========================
+# Optional docs/site bulk
+# Keep root docs/ and website/docs/ only if you want docs/discoverability
+# For first architecture pass, ignore built/generated site assets only
+# =========================
+.plans/
+docs/
+datagen-config-examples/
+website/i18n/
+website/src/data/
+docs/hermes-kanban-v1-spec.pdf
+
+# =========================
+# Misc local/generated files
+# =========================
+hermes_tree.txt

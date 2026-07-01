@@ -1,0 +1,687 @@
+{
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/__init__.py": {
+    "mtime": 1782886254.8751054,
+    "ast_hash": "ee4f11fe6c543abf8c9f64dded49dc4a",
+    "semantic_hash": "ee4f11fe6c543abf8c9f64dded49dc4a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/account_usage.py": {
+    "mtime": 1782886254.8752198,
+    "ast_hash": "f460f6b051563d44a3a20b5176baf23e",
+    "semantic_hash": "f460f6b051563d44a3a20b5176baf23e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/agent_init.py": {
+    "mtime": 1782886254.8755062,
+    "ast_hash": "999c732397fee6e2fbc5f777086ab532",
+    "semantic_hash": "999c732397fee6e2fbc5f777086ab532"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/agent_runtime_helpers.py": {
+    "mtime": 1782886254.875968,
+    "ast_hash": "f4743ddf56ee47cac176a4f9612bc998",
+    "semantic_hash": "f4743ddf56ee47cac176a4f9612bc998"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/anthropic_adapter.py": {
+    "mtime": 1782886254.8762832,
+    "ast_hash": "7e4d58f3becdd493661b639721a906cc",
+    "semantic_hash": "7e4d58f3becdd493661b639721a906cc"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/async_utils.py": {
+    "mtime": 1782886254.8763719,
+    "ast_hash": "9e8f89d4d39cbac8faa5baf4194e8e09",
+    "semantic_hash": "9e8f89d4d39cbac8faa5baf4194e8e09"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/auxiliary_client.py": {
+    "mtime": 1782886254.8770761,
+    "ast_hash": "00930434931a16abd7894e8bd87cff02",
+    "semantic_hash": "00930434931a16abd7894e8bd87cff02"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/azure_identity_adapter.py": {
+    "mtime": 1782886254.877209,
+    "ast_hash": "cac2e09ce8e90284dfaf0f1fc95d396d",
+    "semantic_hash": "cac2e09ce8e90284dfaf0f1fc95d396d"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/background_review.py": {
+    "mtime": 1782886254.877379,
+    "ast_hash": "35a0be85e57c241ae269755870dd7e41",
+    "semantic_hash": "35a0be85e57c241ae269755870dd7e41"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/bedrock_adapter.py": {
+    "mtime": 1782886254.8775344,
+    "ast_hash": "57d88abd05e534e75afd82e5ac83910b",
+    "semantic_hash": "57d88abd05e534e75afd82e5ac83910b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/billing_view.py": {
+    "mtime": 1782886254.8776658,
+    "ast_hash": "0fbc0d6c608a488c1efecb6277b10b53",
+    "semantic_hash": "0fbc0d6c608a488c1efecb6277b10b53"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/browser_provider.py": {
+    "mtime": 1782886254.8777592,
+    "ast_hash": "25dac16da9a5c509170cba7bc8559198",
+    "semantic_hash": "25dac16da9a5c509170cba7bc8559198"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/browser_registry.py": {
+    "mtime": 1782886254.8778512,
+    "ast_hash": "aec1cb5a24e6a7a33810040a0fb1e809",
+    "semantic_hash": "aec1cb5a24e6a7a33810040a0fb1e809"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/chat_completion_helpers.py": {
+    "mtime": 1782886254.8781886,
+    "ast_hash": "a339187dce88fcb799f9987e0e08dfee",
+    "semantic_hash": "a339187dce88fcb799f9987e0e08dfee"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/codex_responses_adapter.py": {
+    "mtime": 1782886254.8783844,
+    "ast_hash": "b0efb075ad0ac7fe0da27c1d1d52ecf4",
+    "semantic_hash": "b0efb075ad0ac7fe0da27c1d1d52ecf4"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/codex_runtime.py": {
+    "mtime": 1782886254.878535,
+    "ast_hash": "35b1b23a1f1704914d58957debf83d27",
+    "semantic_hash": "35b1b23a1f1704914d58957debf83d27"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/coding_context.py": {
+    "mtime": 1782886254.8787148,
+    "ast_hash": "60c74fee5a0ffb34b0106c12df0b8480",
+    "semantic_hash": "60c74fee5a0ffb34b0106c12df0b8480"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/context_breakdown.py": {
+    "mtime": 1782886254.878812,
+    "ast_hash": "4d26fdcbf5eda8694fde1d7ca34ae368",
+    "semantic_hash": "4d26fdcbf5eda8694fde1d7ca34ae368"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/context_compressor.py": {
+    "mtime": 1782886254.8792152,
+    "ast_hash": "01d60fbf5087269f720997ae2117b6fb",
+    "semantic_hash": "01d60fbf5087269f720997ae2117b6fb"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/context_engine.py": {
+    "mtime": 1782886254.879349,
+    "ast_hash": "02fef5bdd2f1f1cc11ee9ef005fd4c15",
+    "semantic_hash": "02fef5bdd2f1f1cc11ee9ef005fd4c15"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/context_references.py": {
+    "mtime": 1782886254.8794668,
+    "ast_hash": "887817afab475d1cf7e9db95545b9bed",
+    "semantic_hash": "887817afab475d1cf7e9db95545b9bed"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/conversation_compression.py": {
+    "mtime": 1782886254.879686,
+    "ast_hash": "4b6d0e6221dcd961dbd83977d9b9ea0c",
+    "semantic_hash": "4b6d0e6221dcd961dbd83977d9b9ea0c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/conversation_loop.py": {
+    "mtime": 1782886254.8803432,
+    "ast_hash": "a5d37e7476ba766504c873d5dd08dd47",
+    "semantic_hash": "a5d37e7476ba766504c873d5dd08dd47"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/copilot_acp_client.py": {
+    "mtime": 1782886254.8804944,
+    "ast_hash": "4c6165891bcbdd4b9b18370a9e3cae6a",
+    "semantic_hash": "4c6165891bcbdd4b9b18370a9e3cae6a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/credits_tracker.py": {
+    "mtime": 1782886254.881095,
+    "ast_hash": "857477b09a816da09ae0c2c0ccf941eb",
+    "semantic_hash": "857477b09a816da09ae0c2c0ccf941eb"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/curator.py": {
+    "mtime": 1782886254.8813448,
+    "ast_hash": "a5f9e7d1ee8a72ff5f986374995342cd",
+    "semantic_hash": "a5f9e7d1ee8a72ff5f986374995342cd"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/curator_backup.py": {
+    "mtime": 1782886254.8814769,
+    "ast_hash": "df9b8d396a5edd84efc471a6b18e97df",
+    "semantic_hash": "df9b8d396a5edd84efc471a6b18e97df"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/display.py": {
+    "mtime": 1782886254.881698,
+    "ast_hash": "2ada21ce23ab056275a217cee391f2af",
+    "semantic_hash": "2ada21ce23ab056275a217cee391f2af"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/error_classifier.py": {
+    "mtime": 1782886254.881904,
+    "ast_hash": "7be826a2abce8946c3ceedb05de38ab6",
+    "semantic_hash": "7be826a2abce8946c3ceedb05de38ab6"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/errors.py": {
+    "mtime": 1782886254.8819873,
+    "ast_hash": "b5cc3e8bf7ac117ea9deb49d75ec7c94",
+    "semantic_hash": "b5cc3e8bf7ac117ea9deb49d75ec7c94"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/file_safety.py": {
+    "mtime": 1782886254.8821197,
+    "ast_hash": "ecc613220b719f7ee49c9401f8bff839",
+    "semantic_hash": "ecc613220b719f7ee49c9401f8bff839"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/gemini_native_adapter.py": {
+    "mtime": 1782886254.8822696,
+    "ast_hash": "eefc3cfeed0fad8c4c1d998ab760f471",
+    "semantic_hash": "eefc3cfeed0fad8c4c1d998ab760f471"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/gemini_schema.py": {
+    "mtime": 1782886254.8823562,
+    "ast_hash": "c11d8bfc96dae014e961d99c828be2a1",
+    "semantic_hash": "c11d8bfc96dae014e961d99c828be2a1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/i18n.py": {
+    "mtime": 1782886254.8824728,
+    "ast_hash": "f223d19638c6f8410b35d5d4250326bc",
+    "semantic_hash": "f223d19638c6f8410b35d5d4250326bc"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/image_gen_provider.py": {
+    "mtime": 1782886254.8826568,
+    "ast_hash": "68747c2a5ed3830248614f58f7a02954",
+    "semantic_hash": "68747c2a5ed3830248614f58f7a02954"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/image_gen_registry.py": {
+    "mtime": 1782886254.8827536,
+    "ast_hash": "c6117f4e44b078d21975672280cb557a",
+    "semantic_hash": "c6117f4e44b078d21975672280cb557a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/image_routing.py": {
+    "mtime": 1782886254.8828907,
+    "ast_hash": "185be9f48124f053bd63637fa190ebe5",
+    "semantic_hash": "185be9f48124f053bd63637fa190ebe5"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/insights.py": {
+    "mtime": 1782886254.8830159,
+    "ast_hash": "88c540a36bff3d1444f37e2311232eca",
+    "semantic_hash": "88c540a36bff3d1444f37e2311232eca"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/iteration_budget.py": {
+    "mtime": 1782886254.8830914,
+    "ast_hash": "01214b904cb1cdf6b7af56aa04293a13",
+    "semantic_hash": "01214b904cb1cdf6b7af56aa04293a13"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/jiter_preload.py": {
+    "mtime": 1782886254.88315,
+    "ast_hash": "33ec9836973cd697e13107e249f486e6",
+    "semantic_hash": "33ec9836973cd697e13107e249f486e6"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/learn_prompt.py": {
+    "mtime": 1782886254.8832724,
+    "ast_hash": "170502315a7bb64dfd8bbf586d5b73a5",
+    "semantic_hash": "170502315a7bb64dfd8bbf586d5b73a5"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/learning_graph.py": {
+    "mtime": 1782886254.8833838,
+    "ast_hash": "a1412f643a2ff7ea1c0d9fa0895e22d0",
+    "semantic_hash": "a1412f643a2ff7ea1c0d9fa0895e22d0"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/learning_graph_render.py": {
+    "mtime": 1782886254.8834903,
+    "ast_hash": "b641fc31d9ab95d1c8099105e2f03ffd",
+    "semantic_hash": "b641fc31d9ab95d1c8099105e2f03ffd"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/learning_mutations.py": {
+    "mtime": 1782886254.883581,
+    "ast_hash": "27b2610707a33027fd1c7ad2608da758",
+    "semantic_hash": "27b2610707a33027fd1c7ad2608da758"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lmstudio_reasoning.py": {
+    "mtime": 1782886254.8836412,
+    "ast_hash": "ef623c0ad9f5c72d26aafde49031304c",
+    "semantic_hash": "ef623c0ad9f5c72d26aafde49031304c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/__init__.py": {
+    "mtime": 1782886254.883741,
+    "ast_hash": "68f38238c18409f4d7f2d23ddffa7825",
+    "semantic_hash": "68f38238c18409f4d7f2d23ddffa7825"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/cli.py": {
+    "mtime": 1782886254.8839288,
+    "ast_hash": "d3ea0750cb0825bf2ce6ccce7edf8090",
+    "semantic_hash": "d3ea0750cb0825bf2ce6ccce7edf8090"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/client.py": {
+    "mtime": 1782886254.8840797,
+    "ast_hash": "55f7e695b73009ec97af0d5a864b895d",
+    "semantic_hash": "55f7e695b73009ec97af0d5a864b895d"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/eventlog.py": {
+    "mtime": 1782886254.8841958,
+    "ast_hash": "515cb2f4ac2156948873b522c4aefb0a",
+    "semantic_hash": "515cb2f4ac2156948873b522c4aefb0a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/install.py": {
+    "mtime": 1782886254.8844101,
+    "ast_hash": "c7832ea75564032bcec7e1fe264e544d",
+    "semantic_hash": "c7832ea75564032bcec7e1fe264e544d"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/manager.py": {
+    "mtime": 1782886254.8845928,
+    "ast_hash": "5a0d87b8c3b12ee22de5824b46fd4dad",
+    "semantic_hash": "5a0d87b8c3b12ee22de5824b46fd4dad"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/protocol.py": {
+    "mtime": 1782886254.8848124,
+    "ast_hash": "d5345d345728ae879c3e693c49bbbaac",
+    "semantic_hash": "d5345d345728ae879c3e693c49bbbaac"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/range_shift.py": {
+    "mtime": 1782886254.884934,
+    "ast_hash": "66254b1fb0fa676fea0be689ffc2b581",
+    "semantic_hash": "66254b1fb0fa676fea0be689ffc2b581"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/reporter.py": {
+    "mtime": 1782886254.8850517,
+    "ast_hash": "ca27e89b7710a82d9ed1354ab7a7ecf3",
+    "semantic_hash": "ca27e89b7710a82d9ed1354ab7a7ecf3"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/servers.py": {
+    "mtime": 1782886254.8853276,
+    "ast_hash": "5f5480846c0d1de2e0e958447eb16583",
+    "semantic_hash": "5f5480846c0d1de2e0e958447eb16583"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/lsp/workspace.py": {
+    "mtime": 1782886254.885465,
+    "ast_hash": "2be45e35db91100e1a0e1ee7395b1575",
+    "semantic_hash": "2be45e35db91100e1a0e1ee7395b1575"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/manual_compression_feedback.py": {
+    "mtime": 1782886254.885564,
+    "ast_hash": "b70d93bb240f7abd401e90acb73c458b",
+    "semantic_hash": "b70d93bb240f7abd401e90acb73c458b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/markdown_tables.py": {
+    "mtime": 1782886254.8857653,
+    "ast_hash": "21aa4626d6051bb9ea161206cd49573d",
+    "semantic_hash": "21aa4626d6051bb9ea161206cd49573d"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/memory_manager.py": {
+    "mtime": 1782886254.885993,
+    "ast_hash": "df5015c10acf1f33aa101b213471763b",
+    "semantic_hash": "df5015c10acf1f33aa101b213471763b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/memory_provider.py": {
+    "mtime": 1782886254.8862317,
+    "ast_hash": "c5d4c9eafafcb2db5c03641b0eb1de85",
+    "semantic_hash": "c5d4c9eafafcb2db5c03641b0eb1de85"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/message_content.py": {
+    "mtime": 1782886254.8863149,
+    "ast_hash": "de701c6d7e4329b9d3b28bbd632c4985",
+    "semantic_hash": "de701c6d7e4329b9d3b28bbd632c4985"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/message_sanitization.py": {
+    "mtime": 1782886254.8864508,
+    "ast_hash": "e804e5b8d3f938ab90a76f026ab9e29e",
+    "semantic_hash": "e804e5b8d3f938ab90a76f026ab9e29e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/moa_loop.py": {
+    "mtime": 1782886254.8866355,
+    "ast_hash": "bea0679297e35284e9b9ef49ac2706f9",
+    "semantic_hash": "bea0679297e35284e9b9ef49ac2706f9"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/model_metadata.py": {
+    "mtime": 1782886254.8869693,
+    "ast_hash": "4d6b705082e3700368a740ed6eef0e33",
+    "semantic_hash": "4d6b705082e3700368a740ed6eef0e33"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/models_dev.py": {
+    "mtime": 1782886254.8871012,
+    "ast_hash": "4eb32de3468d89257c15b01801a62d16",
+    "semantic_hash": "4eb32de3468d89257c15b01801a62d16"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/moonshot_schema.py": {
+    "mtime": 1782886254.8872228,
+    "ast_hash": "ec7e40686b5c572e9bd2833623bcbdc2",
+    "semantic_hash": "ec7e40686b5c572e9bd2833623bcbdc2"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/nous_rate_guard.py": {
+    "mtime": 1782886254.8873444,
+    "ast_hash": "5346e7c39abcaaa46611ca97a268bbc1",
+    "semantic_hash": "5346e7c39abcaaa46611ca97a268bbc1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/onboarding.py": {
+    "mtime": 1782886254.8874483,
+    "ast_hash": "e0edf767fc7f6c384239e9fdf408cfd4",
+    "semantic_hash": "e0edf767fc7f6c384239e9fdf408cfd4"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/oneshot.py": {
+    "mtime": 1782886254.8875337,
+    "ast_hash": "967df019e38a44d8f1b02df2c20b2a5b",
+    "semantic_hash": "967df019e38a44d8f1b02df2c20b2a5b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/__init__.py": {
+    "mtime": 1782886254.8876603,
+    "ast_hash": "64996db1713f1817bec286349561ac71",
+    "semantic_hash": "64996db1713f1817bec286349561ac71"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/constants.py": {
+    "mtime": 1782886254.8877409,
+    "ast_hash": "0311ed306057a5bb67ae0ae7d5a83340",
+    "semantic_hash": "0311ed306057a5bb67ae0ae7d5a83340"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/generate/__init__.py": {
+    "mtime": 1782886254.8878574,
+    "ast_hash": "318ae57854240ad54115bdcaab049bb9",
+    "semantic_hash": "318ae57854240ad54115bdcaab049bb9"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/generate/atlas.py": {
+    "mtime": 1782886254.8880062,
+    "ast_hash": "b22ee4cc63ef6859cbd49a600c3955d8",
+    "semantic_hash": "b22ee4cc63ef6859cbd49a600c3955d8"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/generate/imagegen.py": {
+    "mtime": 1782886254.8881364,
+    "ast_hash": "9cf9cd239620cd1d3ffbf269b5e77117",
+    "semantic_hash": "9cf9cd239620cd1d3ffbf269b5e77117"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/generate/orchestrate.py": {
+    "mtime": 1782886254.8883126,
+    "ast_hash": "c6ff6093d7c3fac3b987d6853922c0b0",
+    "semantic_hash": "c6ff6093d7c3fac3b987d6853922c0b0"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/generate/prompts.py": {
+    "mtime": 1782886254.8884284,
+    "ast_hash": "f12b522d58b3b7d86a513b471d65890b",
+    "semantic_hash": "f12b522d58b3b7d86a513b471d65890b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/manifest.py": {
+    "mtime": 1782886254.8885195,
+    "ast_hash": "5c00a32c3d3b644d7382fe794f34dc3c",
+    "semantic_hash": "5c00a32c3d3b644d7382fe794f34dc3c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/render.py": {
+    "mtime": 1782886254.8886743,
+    "ast_hash": "d2ac1df3b638f770eb5f9b32bb0f5fdd",
+    "semantic_hash": "d2ac1df3b638f770eb5f9b32bb0f5fdd"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/state.py": {
+    "mtime": 1782886254.888756,
+    "ast_hash": "37026349e2f86bde62bf94dfbec43eb7",
+    "semantic_hash": "37026349e2f86bde62bf94dfbec43eb7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/pet/store.py": {
+    "mtime": 1782886254.888862,
+    "ast_hash": "64ee8f37f38126dc5873667bfab8cb59",
+    "semantic_hash": "64ee8f37f38126dc5873667bfab8cb59"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/plugin_llm.py": {
+    "mtime": 1782886254.8890033,
+    "ast_hash": "d12e77947000d13c488e223a9c828e22",
+    "semantic_hash": "d12e77947000d13c488e223a9c828e22"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/portal_tags.py": {
+    "mtime": 1782886254.8891165,
+    "ast_hash": "cd8eea1fc8054ba7b34290b197ffd3bd",
+    "semantic_hash": "cd8eea1fc8054ba7b34290b197ffd3bd"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/process_bootstrap.py": {
+    "mtime": 1782886254.8892274,
+    "ast_hash": "53635aea44aff3f829443f72a1393404",
+    "semantic_hash": "53635aea44aff3f829443f72a1393404"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/prompt_builder.py": {
+    "mtime": 1782886254.889527,
+    "ast_hash": "279c8e6d57dec2976f3e3f1d4c1a12c6",
+    "semantic_hash": "279c8e6d57dec2976f3e3f1d4c1a12c6"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/prompt_caching.py": {
+    "mtime": 1782886254.8896182,
+    "ast_hash": "fbc3ca158fe01c3497521bb0686e29de",
+    "semantic_hash": "fbc3ca158fe01c3497521bb0686e29de"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/rate_limit_tracker.py": {
+    "mtime": 1782886254.8897636,
+    "ast_hash": "dbb6b686063041745f9da4d69b56a877",
+    "semantic_hash": "dbb6b686063041745f9da4d69b56a877"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/reasoning_timeouts.py": {
+    "mtime": 1782886254.8898957,
+    "ast_hash": "6439323623b07de9216c9fa66edd36a6",
+    "semantic_hash": "6439323623b07de9216c9fa66edd36a6"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/redact.py": {
+    "mtime": 1782886254.8900962,
+    "ast_hash": "9d8ba2b0eb70eddf69882688289b0773",
+    "semantic_hash": "9d8ba2b0eb70eddf69882688289b0773"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/replay_cleanup.py": {
+    "mtime": 1782886254.890198,
+    "ast_hash": "4d655de8b0e85264907622696ae132e3",
+    "semantic_hash": "4d655de8b0e85264907622696ae132e3"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/retry_utils.py": {
+    "mtime": 1782886254.8902838,
+    "ast_hash": "85593eb145b1eb23b753ae60c04b3532",
+    "semantic_hash": "85593eb145b1eb23b753ae60c04b3532"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/runtime_cwd.py": {
+    "mtime": 1782886254.890354,
+    "ast_hash": "32a4692ed95a8d5fd8a7371df253a689",
+    "semantic_hash": "32a4692ed95a8d5fd8a7371df253a689"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/secret_sources/__init__.py": {
+    "mtime": 1782886254.8906114,
+    "ast_hash": "c1fd52ae17bf7cb5dd85126e5b3ceaf4",
+    "semantic_hash": "c1fd52ae17bf7cb5dd85126e5b3ceaf4"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/secret_sources/bitwarden.py": {
+    "mtime": 1782886254.8907807,
+    "ast_hash": "b414dbf53d8f64dc98796c24143e7677",
+    "semantic_hash": "b414dbf53d8f64dc98796c24143e7677"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/shell_hooks.py": {
+    "mtime": 1782886254.8910098,
+    "ast_hash": "db70de1208625c7ef1c456d5cb717ebd",
+    "semantic_hash": "db70de1208625c7ef1c456d5cb717ebd"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/skill_bundles.py": {
+    "mtime": 1782886254.8912113,
+    "ast_hash": "60c09387a0d9652e3e57cc502977b0d4",
+    "semantic_hash": "60c09387a0d9652e3e57cc502977b0d4"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/skill_commands.py": {
+    "mtime": 1782886254.8913333,
+    "ast_hash": "faba3238e0b73917b8e56f6720880fcf",
+    "semantic_hash": "faba3238e0b73917b8e56f6720880fcf"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/skill_preprocessing.py": {
+    "mtime": 1782886254.891431,
+    "ast_hash": "7d22c1cf4b2d1bae723f81c0ee838b87",
+    "semantic_hash": "7d22c1cf4b2d1bae723f81c0ee838b87"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/skill_utils.py": {
+    "mtime": 1782886254.8915682,
+    "ast_hash": "0fd5cddff77cfb25d8fa9d15073c16b9",
+    "semantic_hash": "0fd5cddff77cfb25d8fa9d15073c16b9"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/ssl_guard.py": {
+    "mtime": 1782886254.8916519,
+    "ast_hash": "62a8c13edbbf0cfc3e6287436614b176",
+    "semantic_hash": "62a8c13edbbf0cfc3e6287436614b176"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/stream_diag.py": {
+    "mtime": 1782886254.89176,
+    "ast_hash": "d0ddd925065a76ba26f8663de78c95c0",
+    "semantic_hash": "d0ddd925065a76ba26f8663de78c95c0"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/subdirectory_hints.py": {
+    "mtime": 1782886254.891866,
+    "ast_hash": "326789afeabedcd3b1e6a78b76f572e4",
+    "semantic_hash": "326789afeabedcd3b1e6a78b76f572e4"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/system_prompt.py": {
+    "mtime": 1782886254.8919704,
+    "ast_hash": "524ddb75c8f1309120275eb5f68bd899",
+    "semantic_hash": "524ddb75c8f1309120275eb5f68bd899"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/think_scrubber.py": {
+    "mtime": 1782886254.892285,
+    "ast_hash": "e60f2a69756f6b3439a7958e0259a33e",
+    "semantic_hash": "e60f2a69756f6b3439a7958e0259a33e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/thinking_timeout_guidance.py": {
+    "mtime": 1782886254.8923774,
+    "ast_hash": "e8ff171a1e0f65a1ca2a4506c978923e",
+    "semantic_hash": "e8ff171a1e0f65a1ca2a4506c978923e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/thread_scoped_output.py": {
+    "mtime": 1782886254.8925028,
+    "ast_hash": "1a8f00f09c5ab5cec379429695c3cb36",
+    "semantic_hash": "1a8f00f09c5ab5cec379429695c3cb36"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/title_generator.py": {
+    "mtime": 1782886254.8925934,
+    "ast_hash": "b3a119d4df25608724b66387ba97a692",
+    "semantic_hash": "b3a119d4df25608724b66387ba97a692"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/tool_dispatch_helpers.py": {
+    "mtime": 1782886254.892808,
+    "ast_hash": "6f6b4371a85ace2b31b74953613d75a0",
+    "semantic_hash": "6f6b4371a85ace2b31b74953613d75a0"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/tool_executor.py": {
+    "mtime": 1782886254.8930254,
+    "ast_hash": "138b127d950cb8e9da6043b18b895cbc",
+    "semantic_hash": "138b127d950cb8e9da6043b18b895cbc"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/tool_guardrails.py": {
+    "mtime": 1782886254.893139,
+    "ast_hash": "86607b78ffb7f63e3b6b9fc0077ae984",
+    "semantic_hash": "86607b78ffb7f63e3b6b9fc0077ae984"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/tool_result_classification.py": {
+    "mtime": 1782886254.8932266,
+    "ast_hash": "89f24994bcaa551f0d4ba4abba15f3cc",
+    "semantic_hash": "89f24994bcaa551f0d4ba4abba15f3cc"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/trajectory.py": {
+    "mtime": 1782886254.893309,
+    "ast_hash": "93609e1f1d008227d918381ca3d9ac8c",
+    "semantic_hash": "93609e1f1d008227d918381ca3d9ac8c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transcription_provider.py": {
+    "mtime": 1782886254.8934174,
+    "ast_hash": "1a166f7b7b0d149056ee8474f016445f",
+    "semantic_hash": "1a166f7b7b0d149056ee8474f016445f"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transcription_registry.py": {
+    "mtime": 1782886254.893512,
+    "ast_hash": "132868999cb158ce05f901c051fb9538",
+    "semantic_hash": "132868999cb158ce05f901c051fb9538"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/__init__.py": {
+    "mtime": 1782886254.893621,
+    "ast_hash": "8665c2150f4b62b23c475a83dcc6c59e",
+    "semantic_hash": "8665c2150f4b62b23c475a83dcc6c59e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/anthropic.py": {
+    "mtime": 1782886254.8937435,
+    "ast_hash": "b4a836e9bb71ce791f7cd582b1e186cb",
+    "semantic_hash": "b4a836e9bb71ce791f7cd582b1e186cb"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/base.py": {
+    "mtime": 1782886254.8938224,
+    "ast_hash": "2f82512a4ed682a20f3163fe5578c26e",
+    "semantic_hash": "2f82512a4ed682a20f3163fe5578c26e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/bedrock.py": {
+    "mtime": 1782886254.8939018,
+    "ast_hash": "01992547fb4167f29ff175171680b45e",
+    "semantic_hash": "01992547fb4167f29ff175171680b45e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/chat_completions.py": {
+    "mtime": 1782886254.8940527,
+    "ast_hash": "c6e777be722ea9fa8abd70b8fa5c0736",
+    "semantic_hash": "c6e777be722ea9fa8abd70b8fa5c0736"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/codex.py": {
+    "mtime": 1782886254.8943133,
+    "ast_hash": "580b5584d4a1ef490581cead478a20fd",
+    "semantic_hash": "580b5584d4a1ef490581cead478a20fd"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/codex_app_server.py": {
+    "mtime": 1782886254.894556,
+    "ast_hash": "19e968306d74966c0856cfdf95fb69b7",
+    "semantic_hash": "19e968306d74966c0856cfdf95fb69b7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/codex_app_server_session.py": {
+    "mtime": 1782886254.8947115,
+    "ast_hash": "d0085aad06c51226232c5b053de16d0b",
+    "semantic_hash": "d0085aad06c51226232c5b053de16d0b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/codex_event_projector.py": {
+    "mtime": 1782886254.8949008,
+    "ast_hash": "085279b62a7451308449f6587a6293c1",
+    "semantic_hash": "085279b62a7451308449f6587a6293c1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/hermes_tools_mcp_server.py": {
+    "mtime": 1782886254.8950224,
+    "ast_hash": "1c8250ee11334c747d4c7088637feb73",
+    "semantic_hash": "1c8250ee11334c747d4c7088637feb73"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/transports/types.py": {
+    "mtime": 1782886254.8951163,
+    "ast_hash": "bda9b3546cb6e2e20e976838859af8d3",
+    "semantic_hash": "bda9b3546cb6e2e20e976838859af8d3"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/tts_provider.py": {
+    "mtime": 1782886254.8952076,
+    "ast_hash": "a224adc7c4e671cc5f0f214020f9ab47",
+    "semantic_hash": "a224adc7c4e671cc5f0f214020f9ab47"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/tts_registry.py": {
+    "mtime": 1782886254.8952734,
+    "ast_hash": "403fac33de1de391f05cc1cf070d1df8",
+    "semantic_hash": "403fac33de1de391f05cc1cf070d1df8"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/turn_context.py": {
+    "mtime": 1782886254.89542,
+    "ast_hash": "59d02d17c60688339287ad700969a677",
+    "semantic_hash": "59d02d17c60688339287ad700969a677"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/turn_finalizer.py": {
+    "mtime": 1782886254.8955579,
+    "ast_hash": "0fd6f066b88c2187b146242f15d8ba0d",
+    "semantic_hash": "0fd6f066b88c2187b146242f15d8ba0d"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/turn_retry_state.py": {
+    "mtime": 1782886254.8956578,
+    "ast_hash": "12706a21d48779bc63816ff693658914",
+    "semantic_hash": "12706a21d48779bc63816ff693658914"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/usage_pricing.py": {
+    "mtime": 1782886254.8957782,
+    "ast_hash": "9b1d547674357326e8455c634cbcc6a1",
+    "semantic_hash": "9b1d547674357326e8455c634cbcc6a1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/verification_evidence.py": {
+    "mtime": 1782886254.8958948,
+    "ast_hash": "eae4477582aeb7bdbd59a19539933ee8",
+    "semantic_hash": "eae4477582aeb7bdbd59a19539933ee8"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/verification_stop.py": {
+    "mtime": 1782886254.8960397,
+    "ast_hash": "613e29155c87e96bc541c66bf97269ba",
+    "semantic_hash": "613e29155c87e96bc541c66bf97269ba"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/verify_hooks.py": {
+    "mtime": 1782886254.8961153,
+    "ast_hash": "8d6d57db76f6d9f68de4c92253dfb832",
+    "semantic_hash": "8d6d57db76f6d9f68de4c92253dfb832"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/video_gen_provider.py": {
+    "mtime": 1782886254.8962297,
+    "ast_hash": "c1261349d523018a88f7cb7cabc097c5",
+    "semantic_hash": "c1261349d523018a88f7cb7cabc097c5"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/video_gen_registry.py": {
+    "mtime": 1782886254.8963075,
+    "ast_hash": "ec84784d759dfbfee231a5a24aca05d2",
+    "semantic_hash": "ec84784d759dfbfee231a5a24aca05d2"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/web_search_provider.py": {
+    "mtime": 1782886254.8963983,
+    "ast_hash": "8175f10a5ea6ad892562615b06b80c3c",
+    "semantic_hash": "8175f10a5ea6ad892562615b06b80c3c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/agent/web_search_registry.py": {
+    "mtime": 1782886254.8965034,
+    "ast_hash": "b1cbab50051f920eed5541fe0fed019e",
+    "semantic_hash": "b1cbab50051f920eed5541fe0fed019e"
+  }
+}

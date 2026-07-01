@@ -1,0 +1,962 @@
+{
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/__init__.py": {
+    "mtime": 1782886255.0360632,
+    "ast_hash": "4807851941329c5c95f0da29158f082b",
+    "semantic_hash": "4807851941329c5c95f0da29158f082b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/_parser.py": {
+    "mtime": 1782886255.0362186,
+    "ast_hash": "0725397a2fe0e09aaa19c4193a317377",
+    "semantic_hash": "0725397a2fe0e09aaa19c4193a317377"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/_subprocess_compat.py": {
+    "mtime": 1782886255.0363255,
+    "ast_hash": "d6469852d55d0bb2542c6c4b70f508b2",
+    "semantic_hash": "d6469852d55d0bb2542c6c4b70f508b2"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/active_sessions.py": {
+    "mtime": 1782886255.0364234,
+    "ast_hash": "4357d9b1ace86203c4dc7f58dd97ecc2",
+    "semantic_hash": "4357d9b1ace86203c4dc7f58dd97ecc2"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/auth.py": {
+    "mtime": 1782886255.0370638,
+    "ast_hash": "cdff106b7d740f22bc223e20b2910cf5",
+    "semantic_hash": "cdff106b7d740f22bc223e20b2910cf5"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/auth_commands.py": {
+    "mtime": 1782886255.0371766,
+    "ast_hash": "c176734d4dffe3458de68ee6ed53cdbf",
+    "semantic_hash": "c176734d4dffe3458de68ee6ed53cdbf"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/azure_detect.py": {
+    "mtime": 1782886255.037271,
+    "ast_hash": "8f00ee5fff5440ed15ac56fcbb481662",
+    "semantic_hash": "8f00ee5fff5440ed15ac56fcbb481662"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/backup.py": {
+    "mtime": 1782886255.0374446,
+    "ast_hash": "6bf0d6740c6ed9550fc3528a1134679e",
+    "semantic_hash": "6bf0d6740c6ed9550fc3528a1134679e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/banner.py": {
+    "mtime": 1782886255.037592,
+    "ast_hash": "a805cca23e19ff783392dc37b9d25427",
+    "semantic_hash": "a805cca23e19ff783392dc37b9d25427"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/blueprint_cmd.py": {
+    "mtime": 1782886255.037698,
+    "ast_hash": "f249e6d86415e1800b973e8496836242",
+    "semantic_hash": "f249e6d86415e1800b973e8496836242"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/browser_connect.py": {
+    "mtime": 1782886255.0377684,
+    "ast_hash": "62f10d6b1ed72b80bdfe210d5a5eb6b7",
+    "semantic_hash": "62f10d6b1ed72b80bdfe210d5a5eb6b7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/build_info.py": {
+    "mtime": 1782886255.0378304,
+    "ast_hash": "3de5416cacdf27d29ea9cc749772e20a",
+    "semantic_hash": "3de5416cacdf27d29ea9cc749772e20a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/bundles.py": {
+    "mtime": 1782886255.037912,
+    "ast_hash": "aad64f2feebb3cfcb079cc17427228fb",
+    "semantic_hash": "aad64f2feebb3cfcb079cc17427228fb"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/callbacks.py": {
+    "mtime": 1782886255.0380106,
+    "ast_hash": "f63d2cf2e83cdbc8868629d1c52d482b",
+    "semantic_hash": "f63d2cf2e83cdbc8868629d1c52d482b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/checkpoints.py": {
+    "mtime": 1782886255.0381005,
+    "ast_hash": "452a584cb7a5942a4d15b4130001d62a",
+    "semantic_hash": "452a584cb7a5942a4d15b4130001d62a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/claw.py": {
+    "mtime": 1782886255.0382013,
+    "ast_hash": "81a412096524d8382912b3c263184f13",
+    "semantic_hash": "81a412096524d8382912b3c263184f13"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/cli_agent_setup_mixin.py": {
+    "mtime": 1782886255.0383184,
+    "ast_hash": "4f5ad4cdbc516d79b17ac9e3e8cd291b",
+    "semantic_hash": "4f5ad4cdbc516d79b17ac9e3e8cd291b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/cli_commands_mixin.py": {
+    "mtime": 1782886255.038582,
+    "ast_hash": "2fd0b99453af909214e910b786823eaf",
+    "semantic_hash": "2fd0b99453af909214e910b786823eaf"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/cli_output.py": {
+    "mtime": 1782886255.038659,
+    "ast_hash": "789007c0c80abda5593cde8fc011b866",
+    "semantic_hash": "789007c0c80abda5593cde8fc011b866"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/clipboard.py": {
+    "mtime": 1782886255.0387397,
+    "ast_hash": "9d2f59c8e7e297899192ffbd4933e70c",
+    "semantic_hash": "9d2f59c8e7e297899192ffbd4933e70c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/codex_models.py": {
+    "mtime": 1782886255.0388434,
+    "ast_hash": "420d6c75ee10f060059fceafb4f2c0a2",
+    "semantic_hash": "420d6c75ee10f060059fceafb4f2c0a2"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/codex_runtime_plugin_migration.py": {
+    "mtime": 1782886255.0389597,
+    "ast_hash": "2e314785b8bb3fe22ed0d26ec62bbebb",
+    "semantic_hash": "2e314785b8bb3fe22ed0d26ec62bbebb"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/codex_runtime_switch.py": {
+    "mtime": 1782886255.0390766,
+    "ast_hash": "8e4779f1678f7b5fd25d628ccb94f55f",
+    "semantic_hash": "8e4779f1678f7b5fd25d628ccb94f55f"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/colors.py": {
+    "mtime": 1782886255.0391362,
+    "ast_hash": "ef046b0a17c8c807b1ec603c7cbd95d7",
+    "semantic_hash": "ef046b0a17c8c807b1ec603c7cbd95d7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/commands.py": {
+    "mtime": 1782886255.0393634,
+    "ast_hash": "855983c7db837d0c85e4a7dae3473c0e",
+    "semantic_hash": "855983c7db837d0c85e4a7dae3473c0e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/completion.py": {
+    "mtime": 1782886255.0394642,
+    "ast_hash": "161ef6cfb80c64c9d8e3b240ce7d799a",
+    "semantic_hash": "161ef6cfb80c64c9d8e3b240ce7d799a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/config.py": {
+    "mtime": 1782886255.040373,
+    "ast_hash": "42c473ef47d28600dfdc82e6ef2fe8b5",
+    "semantic_hash": "42c473ef47d28600dfdc82e6ef2fe8b5"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/container_boot.py": {
+    "mtime": 1782886255.040503,
+    "ast_hash": "520fd0f98a9cb0b94b0a09a2f3d5ab50",
+    "semantic_hash": "520fd0f98a9cb0b94b0a09a2f3d5ab50"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/context_switch_guard.py": {
+    "mtime": 1782886255.0405881,
+    "ast_hash": "72e8bcb81aae7cf4b1f56af1bf320903",
+    "semantic_hash": "72e8bcb81aae7cf4b1f56af1bf320903"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/copilot_auth.py": {
+    "mtime": 1782886255.0407012,
+    "ast_hash": "a08c77c0ecb19097a562739d0da5a351",
+    "semantic_hash": "a08c77c0ecb19097a562739d0da5a351"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/cron.py": {
+    "mtime": 1782886255.0408142,
+    "ast_hash": "e52a5f8084cac0c857b937305ff85135",
+    "semantic_hash": "e52a5f8084cac0c857b937305ff85135"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/curator.py": {
+    "mtime": 1782886255.040919,
+    "ast_hash": "4309950790f2d08f0cdbd25ba64501c1",
+    "semantic_hash": "4309950790f2d08f0cdbd25ba64501c1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/curses_ui.py": {
+    "mtime": 1782886255.0410352,
+    "ast_hash": "bc9235b01339977fb2ba79b691a4cd10",
+    "semantic_hash": "bc9235b01339977fb2ba79b691a4cd10"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/__init__.py": {
+    "mtime": 1782886255.0411568,
+    "ast_hash": "4ba39a7c550257eac0e8bbbf529b1653",
+    "semantic_hash": "4ba39a7c550257eac0e8bbbf529b1653"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/audit.py": {
+    "mtime": 1782886255.0412242,
+    "ast_hash": "fe0d829f88e8aa932889c28cf13ea92e",
+    "semantic_hash": "fe0d829f88e8aa932889c28cf13ea92e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/base.py": {
+    "mtime": 1782886255.0413876,
+    "ast_hash": "e987cd557550fb4a5b572725c7038190",
+    "semantic_hash": "e987cd557550fb4a5b572725c7038190"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/cookies.py": {
+    "mtime": 1782886255.0415976,
+    "ast_hash": "bda52b6fd251ec46942f68e4c2a22e44",
+    "semantic_hash": "bda52b6fd251ec46942f68e4c2a22e44"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/login_page.py": {
+    "mtime": 1782886255.0417168,
+    "ast_hash": "7a3983937dccf73e27d36d5360c052b6",
+    "semantic_hash": "7a3983937dccf73e27d36d5360c052b6"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/middleware.py": {
+    "mtime": 1782886255.0418563,
+    "ast_hash": "9effdcf87174e066cccdc680b979a91a",
+    "semantic_hash": "9effdcf87174e066cccdc680b979a91a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/prefix.py": {
+    "mtime": 1782886255.0419605,
+    "ast_hash": "c367a14d427e82b7eceb14b20d0e3d0b",
+    "semantic_hash": "c367a14d427e82b7eceb14b20d0e3d0b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/public_paths.py": {
+    "mtime": 1782886255.0420315,
+    "ast_hash": "15f58708e0839008e1fdddeff0685261",
+    "semantic_hash": "15f58708e0839008e1fdddeff0685261"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/registry.py": {
+    "mtime": 1782886255.04211,
+    "ast_hash": "fd2053d941cb83165fcd2fc224a57c2b",
+    "semantic_hash": "fd2053d941cb83165fcd2fc224a57c2b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/routes.py": {
+    "mtime": 1782886255.0422268,
+    "ast_hash": "2010a945cd028fc96211a14946627c0b",
+    "semantic_hash": "2010a945cd028fc96211a14946627c0b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_auth/ws_tickets.py": {
+    "mtime": 1782886255.0424006,
+    "ast_hash": "416578609851103ee4c12d7cec255cc4",
+    "semantic_hash": "416578609851103ee4c12d7cec255cc4"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dashboard_register.py": {
+    "mtime": 1782886255.0425105,
+    "ast_hash": "83d410ed810dc5d3e74dfe93dad51d47",
+    "semantic_hash": "83d410ed810dc5d3e74dfe93dad51d47"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/debug.py": {
+    "mtime": 1782886255.0426838,
+    "ast_hash": "892fe389d04a455c474bb987720b8e6c",
+    "semantic_hash": "892fe389d04a455c474bb987720b8e6c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/default_soul.py": {
+    "mtime": 1782886255.0428302,
+    "ast_hash": "f08a9a6ff421150ebcec0b0535d5b210",
+    "semantic_hash": "f08a9a6ff421150ebcec0b0535d5b210"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dep_ensure.py": {
+    "mtime": 1782886255.0429072,
+    "ast_hash": "1fae1dd702673925750d34f4eea3d677",
+    "semantic_hash": "1fae1dd702673925750d34f4eea3d677"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/diagnostics_upload.py": {
+    "mtime": 1782886255.0430014,
+    "ast_hash": "a53ae9d8f0d6d2f96bbe9dea6cf30a57",
+    "semantic_hash": "a53ae9d8f0d6d2f96bbe9dea6cf30a57"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dingtalk_auth.py": {
+    "mtime": 1782886255.0431073,
+    "ast_hash": "a66aa8fcb01c97917268ca2630786934",
+    "semantic_hash": "a66aa8fcb01c97917268ca2630786934"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/doctor.py": {
+    "mtime": 1782886255.0433395,
+    "ast_hash": "abcdee1cae85196d8476f2502a545c6e",
+    "semantic_hash": "abcdee1cae85196d8476f2502a545c6e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/dump.py": {
+    "mtime": 1782886255.0435133,
+    "ast_hash": "64c2dd8389902b8fb96a1c92e944381e",
+    "semantic_hash": "64c2dd8389902b8fb96a1c92e944381e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/env_loader.py": {
+    "mtime": 1782886255.0436754,
+    "ast_hash": "3bca569803dbdb2517c962022b8c01d8",
+    "semantic_hash": "3bca569803dbdb2517c962022b8c01d8"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/fallback_cmd.py": {
+    "mtime": 1782886255.0438216,
+    "ast_hash": "1bb1414ff155925033cfe41c9f2dc7ae",
+    "semantic_hash": "1bb1414ff155925033cfe41c9f2dc7ae"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/fallback_config.py": {
+    "mtime": 1782886255.0438833,
+    "ast_hash": "a21483ed0012bd5e221f75a646ee8b8b",
+    "semantic_hash": "a21483ed0012bd5e221f75a646ee8b8b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/gateway.py": {
+    "mtime": 1782886255.044486,
+    "ast_hash": "2a14fa75779cda1b22ff7557a2f4254e",
+    "semantic_hash": "2a14fa75779cda1b22ff7557a2f4254e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/gateway_enroll.py": {
+    "mtime": 1782886255.0446057,
+    "ast_hash": "c6eef26d0fbb615dc95698fe26c6e3b1",
+    "semantic_hash": "c6eef26d0fbb615dc95698fe26c6e3b1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/gateway_windows.py": {
+    "mtime": 1782886255.0448012,
+    "ast_hash": "1187c2f23ff2ca3574e1c0db1dcd1b2b",
+    "semantic_hash": "1187c2f23ff2ca3574e1c0db1dcd1b2b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/goals.py": {
+    "mtime": 1782886255.0449831,
+    "ast_hash": "69775f9da601bb0ee687bd504771a0f4",
+    "semantic_hash": "69775f9da601bb0ee687bd504771a0f4"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/gui_uninstall.py": {
+    "mtime": 1782886255.0450954,
+    "ast_hash": "1dc143a3bb85a175352833049250bf8d",
+    "semantic_hash": "1dc143a3bb85a175352833049250bf8d"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/hooks.py": {
+    "mtime": 1782886255.045245,
+    "ast_hash": "ee4553f694381de1903aa988a13e5c36",
+    "semantic_hash": "ee4553f694381de1903aa988a13e5c36"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/inventory.py": {
+    "mtime": 1782886255.0453527,
+    "ast_hash": "1a2db119d35a19a9d428c7139fb47074",
+    "semantic_hash": "1a2db119d35a19a9d428c7139fb47074"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/journey.py": {
+    "mtime": 1782886255.0455186,
+    "ast_hash": "c14db49f360e5527c5412970aa03e5ee",
+    "semantic_hash": "c14db49f360e5527c5412970aa03e5ee"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/kanban.py": {
+    "mtime": 1782886255.0457582,
+    "ast_hash": "95846e7f14aee4cec160e215aed99822",
+    "semantic_hash": "95846e7f14aee4cec160e215aed99822"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/kanban_db.py": {
+    "mtime": 1782886255.0464752,
+    "ast_hash": "75b46ab39370a6cf032a2bfa8e7012af",
+    "semantic_hash": "75b46ab39370a6cf032a2bfa8e7012af"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/kanban_decompose.py": {
+    "mtime": 1782886255.0466495,
+    "ast_hash": "dc9721f4e25b2f16f7d589d73a144b88",
+    "semantic_hash": "dc9721f4e25b2f16f7d589d73a144b88"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/kanban_diagnostics.py": {
+    "mtime": 1782886255.0467734,
+    "ast_hash": "97fd1ce95b294f7a3f3fab21e878d1a3",
+    "semantic_hash": "97fd1ce95b294f7a3f3fab21e878d1a3"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/kanban_specify.py": {
+    "mtime": 1782886255.0468826,
+    "ast_hash": "75948d1606eb78ae09308b0466c20283",
+    "semantic_hash": "75948d1606eb78ae09308b0466c20283"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/kanban_swarm.py": {
+    "mtime": 1782886255.0469818,
+    "ast_hash": "067c98a53c667799434c26c96bee2a35",
+    "semantic_hash": "067c98a53c667799434c26c96bee2a35"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/logs.py": {
+    "mtime": 1782886255.0471272,
+    "ast_hash": "8974a4d63737bbc5db36a07d6d73f498",
+    "semantic_hash": "8974a4d63737bbc5db36a07d6d73f498"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/main.py": {
+    "mtime": 1782886255.0482075,
+    "ast_hash": "47385c2a8dfea1fb13334c7a779ccb40",
+    "semantic_hash": "47385c2a8dfea1fb13334c7a779ccb40"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/managed_scope.py": {
+    "mtime": 1782886255.0483618,
+    "ast_hash": "ff87de735b9592f106a3d94f87b85cd7",
+    "semantic_hash": "ff87de735b9592f106a3d94f87b85cd7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/managed_uv.py": {
+    "mtime": 1782886255.0484655,
+    "ast_hash": "3b708a71e60b095e0e52089f1200a758",
+    "semantic_hash": "3b708a71e60b095e0e52089f1200a758"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/mcp_catalog.py": {
+    "mtime": 1782886255.0485773,
+    "ast_hash": "32861110196207c982cd5b92b4ffda66",
+    "semantic_hash": "32861110196207c982cd5b92b4ffda66"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/mcp_config.py": {
+    "mtime": 1782886255.048727,
+    "ast_hash": "b48da4b1333c42ba4a09b3827875ebe4",
+    "semantic_hash": "b48da4b1333c42ba4a09b3827875ebe4"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/mcp_picker.py": {
+    "mtime": 1782886255.0488355,
+    "ast_hash": "ba4d3b80f21271430aff2b7ab505c961",
+    "semantic_hash": "ba4d3b80f21271430aff2b7ab505c961"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/mcp_security.py": {
+    "mtime": 1782886255.0489163,
+    "ast_hash": "c3c5ddedc3cacac1f66000ed09c7bb9d",
+    "semantic_hash": "c3c5ddedc3cacac1f66000ed09c7bb9d"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/mcp_startup.py": {
+    "mtime": 1782886255.0490024,
+    "ast_hash": "554038237504c50de50c61c15e31c3a0",
+    "semantic_hash": "554038237504c50de50c61c15e31c3a0"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/memory_oauth.py": {
+    "mtime": 1782886255.0490713,
+    "ast_hash": "3fb83d39c499019dfa25129593585403",
+    "semantic_hash": "3fb83d39c499019dfa25129593585403"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/memory_providers.py": {
+    "mtime": 1782886255.0491397,
+    "ast_hash": "fa3c3af91e42cf9fdccc176ae145ecc7",
+    "semantic_hash": "fa3c3af91e42cf9fdccc176ae145ecc7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/memory_setup.py": {
+    "mtime": 1782886255.0492249,
+    "ast_hash": "7607294c4539c24a7c4fae8ad5c948cd",
+    "semantic_hash": "7607294c4539c24a7c4fae8ad5c948cd"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/middleware.py": {
+    "mtime": 1782886255.0493255,
+    "ast_hash": "bcb5e7173eb8844c2b3ce876100fab35",
+    "semantic_hash": "bcb5e7173eb8844c2b3ce876100fab35"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/migrate.py": {
+    "mtime": 1782886255.0493891,
+    "ast_hash": "4948ca66858543c35c9de0c9cad64234",
+    "semantic_hash": "4948ca66858543c35c9de0c9cad64234"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/moa_cmd.py": {
+    "mtime": 1782886255.049457,
+    "ast_hash": "ef0f66701ce7b1a9613edf09cfc29a10",
+    "semantic_hash": "ef0f66701ce7b1a9613edf09cfc29a10"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/moa_config.py": {
+    "mtime": 1782886255.0495598,
+    "ast_hash": "e551b24b5a6e70bc9a968d677a09f236",
+    "semantic_hash": "e551b24b5a6e70bc9a968d677a09f236"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/model_catalog.py": {
+    "mtime": 1782886255.049711,
+    "ast_hash": "4a7c16b008910eb8de30127d9932f1a8",
+    "semantic_hash": "4a7c16b008910eb8de30127d9932f1a8"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/model_cost_guard.py": {
+    "mtime": 1782886255.0497744,
+    "ast_hash": "d41f3f117a1419b236627055b377c70f",
+    "semantic_hash": "d41f3f117a1419b236627055b377c70f"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/model_normalize.py": {
+    "mtime": 1782886255.049857,
+    "ast_hash": "9740d73f0dd980236a11069c42be41db",
+    "semantic_hash": "9740d73f0dd980236a11069c42be41db"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/model_setup_flows.py": {
+    "mtime": 1782886255.050066,
+    "ast_hash": "8847733dd8403950e2a089031de21778",
+    "semantic_hash": "8847733dd8403950e2a089031de21778"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/model_switch.py": {
+    "mtime": 1782886255.0503187,
+    "ast_hash": "7c16ae8077ab4c3627dfdb6820fbc725",
+    "semantic_hash": "7c16ae8077ab4c3627dfdb6820fbc725"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/models.py": {
+    "mtime": 1782886255.0506492,
+    "ast_hash": "18e832b369f9492417e88e6e1a8b5049",
+    "semantic_hash": "18e832b369f9492417e88e6e1a8b5049"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/nous_account.py": {
+    "mtime": 1782886255.0507567,
+    "ast_hash": "5b3cf99c141942d74521f2a929e560cd",
+    "semantic_hash": "5b3cf99c141942d74521f2a929e560cd"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/nous_auth_keepalive.py": {
+    "mtime": 1782886255.0508358,
+    "ast_hash": "f7658facd8606c7fc08d31ac6bee2b99",
+    "semantic_hash": "f7658facd8606c7fc08d31ac6bee2b99"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/nous_billing.py": {
+    "mtime": 1782886255.0509896,
+    "ast_hash": "9fc32404315edca119f49588474f0cbe",
+    "semantic_hash": "9fc32404315edca119f49588474f0cbe"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/nous_subscription.py": {
+    "mtime": 1782886255.0511131,
+    "ast_hash": "a23b552ffec7ca37febfaabe32ab1e01",
+    "semantic_hash": "a23b552ffec7ca37febfaabe32ab1e01"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/oneshot.py": {
+    "mtime": 1782886255.0512872,
+    "ast_hash": "fdb69bbe2bf72f7c643a21854792cae8",
+    "semantic_hash": "fdb69bbe2bf72f7c643a21854792cae8"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/pairing.py": {
+    "mtime": 1782886255.0513604,
+    "ast_hash": "a633597b98a0bf8f2fe2ff6f1eb83b98",
+    "semantic_hash": "a633597b98a0bf8f2fe2ff6f1eb83b98"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/partial_compress.py": {
+    "mtime": 1782886255.051473,
+    "ast_hash": "dabd85710e6d0c816369da19efeba3ac",
+    "semantic_hash": "dabd85710e6d0c816369da19efeba3ac"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/pets.py": {
+    "mtime": 1782886255.0516384,
+    "ast_hash": "f658f3cb3f9a95ef76c1c091243a81c3",
+    "semantic_hash": "f658f3cb3f9a95ef76c1c091243a81c3"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/platforms.py": {
+    "mtime": 1782886255.0517423,
+    "ast_hash": "87a52b8e0a10bc2a9a2d3de2d29a4735",
+    "semantic_hash": "87a52b8e0a10bc2a9a2d3de2d29a4735"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/plugins.py": {
+    "mtime": 1782886255.0519905,
+    "ast_hash": "6b909b67bd2a1ae989921aa34d6f6173",
+    "semantic_hash": "6b909b67bd2a1ae989921aa34d6f6173"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/plugins_cmd.py": {
+    "mtime": 1782886255.0521922,
+    "ast_hash": "eeb7254d0f9874cb3dc14246a9b31b06",
+    "semantic_hash": "eeb7254d0f9874cb3dc14246a9b31b06"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/portal_cli.py": {
+    "mtime": 1782886255.0523155,
+    "ast_hash": "0b53d3c68d6676797f44f6b355edf5e1",
+    "semantic_hash": "0b53d3c68d6676797f44f6b355edf5e1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/profile_describer.py": {
+    "mtime": 1782886255.0524356,
+    "ast_hash": "d4b9971127bbbb21f6877ef625167038",
+    "semantic_hash": "d4b9971127bbbb21f6877ef625167038"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/profile_distribution.py": {
+    "mtime": 1782886255.0525432,
+    "ast_hash": "5e922d445fdb79c9d9121dd3ed04d184",
+    "semantic_hash": "5e922d445fdb79c9d9121dd3ed04d184"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/profiles.py": {
+    "mtime": 1782886255.0527637,
+    "ast_hash": "0902451559eb33013274b0cd3314d157",
+    "semantic_hash": "0902451559eb33013274b0cd3314d157"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/projects_cmd.py": {
+    "mtime": 1782886255.0528834,
+    "ast_hash": "6d56fdafd309d30071e961d005b3bf31",
+    "semantic_hash": "6d56fdafd309d30071e961d005b3bf31"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/projects_db.py": {
+    "mtime": 1782886255.0529895,
+    "ast_hash": "3b5a18a852d8b9d4f69bb182e28e10cf",
+    "semantic_hash": "3b5a18a852d8b9d4f69bb182e28e10cf"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/prompt_size.py": {
+    "mtime": 1782886255.0530872,
+    "ast_hash": "f398cf6b9c9232264f454cb575754530",
+    "semantic_hash": "f398cf6b9c9232264f454cb575754530"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/provider_catalog.py": {
+    "mtime": 1782886255.0531723,
+    "ast_hash": "1ac1c873aefe5a868b55f43ac847591c",
+    "semantic_hash": "1ac1c873aefe5a868b55f43ac847591c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/providers.py": {
+    "mtime": 1782886255.0532796,
+    "ast_hash": "1cf9d69851c5599546e398dcf3092db3",
+    "semantic_hash": "1cf9d69851c5599546e398dcf3092db3"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/proxy/__init__.py": {
+    "mtime": 1782886255.0533938,
+    "ast_hash": "fa9e670ecc2c664a4556ef1f467c128c",
+    "semantic_hash": "fa9e670ecc2c664a4556ef1f467c128c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/proxy/adapters/__init__.py": {
+    "mtime": 1782886255.0534956,
+    "ast_hash": "b7a82f157a6946aab26495a35606d0c9",
+    "semantic_hash": "b7a82f157a6946aab26495a35606d0c9"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/proxy/adapters/base.py": {
+    "mtime": 1782886255.053565,
+    "ast_hash": "8365556f5398bcc9ae5477ad5778121b",
+    "semantic_hash": "8365556f5398bcc9ae5477ad5778121b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/proxy/adapters/nous_portal.py": {
+    "mtime": 1782886255.0536568,
+    "ast_hash": "4390c564bf50515e8aadd5f392d76c55",
+    "semantic_hash": "4390c564bf50515e8aadd5f392d76c55"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/proxy/adapters/xai.py": {
+    "mtime": 1782886255.053733,
+    "ast_hash": "d6f6a8a547ce84f31949a2efffa41fa2",
+    "semantic_hash": "d6f6a8a547ce84f31949a2efffa41fa2"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/proxy/cli.py": {
+    "mtime": 1782886255.0537999,
+    "ast_hash": "18e95f190fb80ad9cd2da0691954b8e9",
+    "semantic_hash": "18e95f190fb80ad9cd2da0691954b8e9"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/proxy/server.py": {
+    "mtime": 1782886255.0538986,
+    "ast_hash": "581589ad1e64f26cc5fd436a23f75c01",
+    "semantic_hash": "581589ad1e64f26cc5fd436a23f75c01"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/psutil_android.py": {
+    "mtime": 1782886255.0539665,
+    "ast_hash": "9f56e540763e9b97cdce6dad2c454b3e",
+    "semantic_hash": "9f56e540763e9b97cdce6dad2c454b3e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/pt_input_extras.py": {
+    "mtime": 1782886255.054037,
+    "ast_hash": "7a1b986485893c78eac0ce3bba74bae2",
+    "semantic_hash": "7a1b986485893c78eac0ce3bba74bae2"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/pty_bridge.py": {
+    "mtime": 1782886255.0541506,
+    "ast_hash": "2696bb8251ab54fddf900fb488e4b135",
+    "semantic_hash": "2696bb8251ab54fddf900fb488e4b135"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/relaunch.py": {
+    "mtime": 1782886255.0542338,
+    "ast_hash": "eee27ac679012ff25282c8aead1be388",
+    "semantic_hash": "eee27ac679012ff25282c8aead1be388"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/runtime_provider.py": {
+    "mtime": 1782886255.0544555,
+    "ast_hash": "b7f5f997d5ac18aaf49e62a00ac33661",
+    "semantic_hash": "b7f5f997d5ac18aaf49e62a00ac33661"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/security_advisories.py": {
+    "mtime": 1782886255.0548358,
+    "ast_hash": "713f2b20417d12f6323458c79ba47fe1",
+    "semantic_hash": "713f2b20417d12f6323458c79ba47fe1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/security_audit.py": {
+    "mtime": 1782886255.0549364,
+    "ast_hash": "b5ccee4adb61d0043be9c8eb0f6e72f5",
+    "semantic_hash": "b5ccee4adb61d0043be9c8eb0f6e72f5"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/security_audit_startup.py": {
+    "mtime": 1782886255.055051,
+    "ast_hash": "7cc712bd5c58d74df996c8ca51ab2bb6",
+    "semantic_hash": "7cc712bd5c58d74df996c8ca51ab2bb6"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/send_cmd.py": {
+    "mtime": 1782886255.0551465,
+    "ast_hash": "08e602ed2e9d2faabd387b5b87ae68c0",
+    "semantic_hash": "08e602ed2e9d2faabd387b5b87ae68c0"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/service_manager.py": {
+    "mtime": 1782886255.0553167,
+    "ast_hash": "2e5dc61b0f5f4e6ceee7b9005a6990f5",
+    "semantic_hash": "2e5dc61b0f5f4e6ceee7b9005a6990f5"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/session_listing.py": {
+    "mtime": 1782886255.0553987,
+    "ast_hash": "6170eaf37115231a5f0886b30439ea72",
+    "semantic_hash": "6170eaf37115231a5f0886b30439ea72"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/session_recap.py": {
+    "mtime": 1782886255.055505,
+    "ast_hash": "389d101646f8ba7908d8bd310406a4ab",
+    "semantic_hash": "389d101646f8ba7908d8bd310406a4ab"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/setup.py": {
+    "mtime": 1782886255.0558312,
+    "ast_hash": "4a078bbe17e067b8a03acca028e114a7",
+    "semantic_hash": "4a078bbe17e067b8a03acca028e114a7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/setup_whatsapp_cloud.py": {
+    "mtime": 1782886255.0559416,
+    "ast_hash": "7b146ae49e2e89b566b9c1cbf27dcb45",
+    "semantic_hash": "7b146ae49e2e89b566b9c1cbf27dcb45"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/skills_config.py": {
+    "mtime": 1782886255.056019,
+    "ast_hash": "45a14f69a324743564c9f8770bc88aab",
+    "semantic_hash": "45a14f69a324743564c9f8770bc88aab"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/skills_hub.py": {
+    "mtime": 1782886255.0562077,
+    "ast_hash": "00b21350fdddc922a24ef5c5c07916a7",
+    "semantic_hash": "00b21350fdddc922a24ef5c5c07916a7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/skin_engine.py": {
+    "mtime": 1782886255.056338,
+    "ast_hash": "2130eef138f6c1a6f60c76a88d1cea04",
+    "semantic_hash": "2130eef138f6c1a6f60c76a88d1cea04"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/slack_cli.py": {
+    "mtime": 1782886255.0564194,
+    "ast_hash": "a4e90ba29cb68a4a2cc6e1ea99f79a81",
+    "semantic_hash": "a4e90ba29cb68a4a2cc6e1ea99f79a81"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/sqlite_util.py": {
+    "mtime": 1782886255.0564892,
+    "ast_hash": "8addbc029d7ec86e951b59540841e740",
+    "semantic_hash": "8addbc029d7ec86e951b59540841e740"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/status.py": {
+    "mtime": 1782886255.0565972,
+    "ast_hash": "da42434aec6821866543bc979ecc7dbc",
+    "semantic_hash": "da42434aec6821866543bc979ecc7dbc"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/stdio.py": {
+    "mtime": 1782886255.0567174,
+    "ast_hash": "700f2b7c869ecb64cc3cb958655dc0e6",
+    "semantic_hash": "700f2b7c869ecb64cc3cb958655dc0e6"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/__init__.py": {
+    "mtime": 1782886255.056817,
+    "ast_hash": "669e5c236c43c8d31b59020593f2a8cc",
+    "semantic_hash": "669e5c236c43c8d31b59020593f2a8cc"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/_shared.py": {
+    "mtime": 1782886255.056879,
+    "ast_hash": "19fb87225527981b19aaedd740774025",
+    "semantic_hash": "19fb87225527981b19aaedd740774025"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/acp.py": {
+    "mtime": 1782886255.0569382,
+    "ast_hash": "820569d089a9d1e764059e88137ae079",
+    "semantic_hash": "820569d089a9d1e764059e88137ae079"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/auth.py": {
+    "mtime": 1782886255.0570087,
+    "ast_hash": "b3823fcd13959e7670ecc7fc945c0b6a",
+    "semantic_hash": "b3823fcd13959e7670ecc7fc945c0b6a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/backup.py": {
+    "mtime": 1782886255.0570788,
+    "ast_hash": "e80b15c4109619e95f7fe20fd7225f51",
+    "semantic_hash": "e80b15c4109619e95f7fe20fd7225f51"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/claw.py": {
+    "mtime": 1782886255.0571465,
+    "ast_hash": "45207832b869a53b854d305130195778",
+    "semantic_hash": "45207832b869a53b854d305130195778"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/config.py": {
+    "mtime": 1782886255.0572042,
+    "ast_hash": "cb3c77b76a1f330a84538946e92b15f5",
+    "semantic_hash": "cb3c77b76a1f330a84538946e92b15f5"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/cron.py": {
+    "mtime": 1782886255.0572793,
+    "ast_hash": "5d10cb2614eba5f05d2263a984155b32",
+    "semantic_hash": "5d10cb2614eba5f05d2263a984155b32"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/dashboard.py": {
+    "mtime": 1782886255.0574102,
+    "ast_hash": "6e952923ebc9d249ae654a3336ba55a1",
+    "semantic_hash": "6e952923ebc9d249ae654a3336ba55a1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/debug.py": {
+    "mtime": 1782886255.0574944,
+    "ast_hash": "5ab9bc34d2c2106a3d14af991b327428",
+    "semantic_hash": "5ab9bc34d2c2106a3d14af991b327428"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/doctor.py": {
+    "mtime": 1782886255.0575595,
+    "ast_hash": "c8623526ad23c7a4b1f660c5299fc238",
+    "semantic_hash": "c8623526ad23c7a4b1f660c5299fc238"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/dump.py": {
+    "mtime": 1782886255.0576422,
+    "ast_hash": "06e620ff36a5ee004db8ce903844935e",
+    "semantic_hash": "06e620ff36a5ee004db8ce903844935e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/gateway.py": {
+    "mtime": 1782886255.0578234,
+    "ast_hash": "5712f3d2a8635dfe619119efe4f1df69",
+    "semantic_hash": "5712f3d2a8635dfe619119efe4f1df69"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/gui.py": {
+    "mtime": 1782886255.0578916,
+    "ast_hash": "71e7483baa50e24bd199adb05b3964f6",
+    "semantic_hash": "71e7483baa50e24bd199adb05b3964f6"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/hooks.py": {
+    "mtime": 1782886255.0579562,
+    "ast_hash": "03fbc15c81dde5f646938f0b10ca1902",
+    "semantic_hash": "03fbc15c81dde5f646938f0b10ca1902"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/import_cmd.py": {
+    "mtime": 1782886255.05803,
+    "ast_hash": "5ffd146ebe897969e8fca25e26f58807",
+    "semantic_hash": "5ffd146ebe897969e8fca25e26f58807"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/insights.py": {
+    "mtime": 1782886255.0581012,
+    "ast_hash": "f9dda4dc520eda2b43e246ad517fd1df",
+    "semantic_hash": "f9dda4dc520eda2b43e246ad517fd1df"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/login.py": {
+    "mtime": 1782886255.0581732,
+    "ast_hash": "9c81f96359857956255928b855e92f93",
+    "semantic_hash": "9c81f96359857956255928b855e92f93"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/logout.py": {
+    "mtime": 1782886255.0582502,
+    "ast_hash": "7c7b1c4db95349d598772444cae4a1a7",
+    "semantic_hash": "7c7b1c4db95349d598772444cae4a1a7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/logs.py": {
+    "mtime": 1782886255.0583217,
+    "ast_hash": "3c4788f940a114a22a4b304918f555a2",
+    "semantic_hash": "3c4788f940a114a22a4b304918f555a2"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/mcp.py": {
+    "mtime": 1782886255.0584023,
+    "ast_hash": "070e0681cf139ac4154d1b747cc97fa5",
+    "semantic_hash": "070e0681cf139ac4154d1b747cc97fa5"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/memory.py": {
+    "mtime": 1782886255.0584686,
+    "ast_hash": "c68e744c5a18cd5bf68ecb7107014b85",
+    "semantic_hash": "c68e744c5a18cd5bf68ecb7107014b85"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/model.py": {
+    "mtime": 1782886255.0585363,
+    "ast_hash": "98572d45735c6fbae75de13633c5212b",
+    "semantic_hash": "98572d45735c6fbae75de13633c5212b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/pairing.py": {
+    "mtime": 1782886255.0585966,
+    "ast_hash": "9f8cf777f3399457128a31462948e489",
+    "semantic_hash": "9f8cf777f3399457128a31462948e489"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/plugins.py": {
+    "mtime": 1782886255.0586758,
+    "ast_hash": "cbe7e03f06e11d41de70441601e92dd6",
+    "semantic_hash": "cbe7e03f06e11d41de70441601e92dd6"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/postinstall.py": {
+    "mtime": 1782886255.0587628,
+    "ast_hash": "d5946cb716f3e2955e383b7a725f7348",
+    "semantic_hash": "d5946cb716f3e2955e383b7a725f7348"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/profile.py": {
+    "mtime": 1782886255.0588415,
+    "ast_hash": "be675c52c8a51f3493ddcd5cf3c118e7",
+    "semantic_hash": "be675c52c8a51f3493ddcd5cf3c118e7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/prompt_size.py": {
+    "mtime": 1782886255.0589068,
+    "ast_hash": "285e62902aa7c27fe2b341741b88028c",
+    "semantic_hash": "285e62902aa7c27fe2b341741b88028c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/security.py": {
+    "mtime": 1782886255.0589652,
+    "ast_hash": "dbf48c23a65c90f6bd02fd9be9aa1552",
+    "semantic_hash": "dbf48c23a65c90f6bd02fd9be9aa1552"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/setup.py": {
+    "mtime": 1782886255.059023,
+    "ast_hash": "41ea8d7a1a8e5b9bc2b5d19e58e26b68",
+    "semantic_hash": "41ea8d7a1a8e5b9bc2b5d19e58e26b68"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/skills.py": {
+    "mtime": 1782886255.0591328,
+    "ast_hash": "d3062c5bcaf5ae3c660602c0bcd722d1",
+    "semantic_hash": "d3062c5bcaf5ae3c660602c0bcd722d1"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/slack.py": {
+    "mtime": 1782886255.0592,
+    "ast_hash": "44986556731586bf3192fd18b792be2e",
+    "semantic_hash": "44986556731586bf3192fd18b792be2e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/status.py": {
+    "mtime": 1782886255.0592613,
+    "ast_hash": "478d25f7edbbe4a942378d0794a8a95b",
+    "semantic_hash": "478d25f7edbbe4a942378d0794a8a95b"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/tools.py": {
+    "mtime": 1782886255.0593302,
+    "ast_hash": "6ed258cf64cdaf5fbad6903363ed792a",
+    "semantic_hash": "6ed258cf64cdaf5fbad6903363ed792a"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/uninstall.py": {
+    "mtime": 1782886255.05939,
+    "ast_hash": "9926c3ca6208d75cba3c4417b9cea537",
+    "semantic_hash": "9926c3ca6208d75cba3c4417b9cea537"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/update.py": {
+    "mtime": 1782886255.0594516,
+    "ast_hash": "61dff8282f5db1afa55b6bb10f5b041e",
+    "semantic_hash": "61dff8282f5db1afa55b6bb10f5b041e"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/version.py": {
+    "mtime": 1782886255.0595186,
+    "ast_hash": "4c46f73d81c61535f289d800e0cf64b7",
+    "semantic_hash": "4c46f73d81c61535f289d800e0cf64b7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/webhook.py": {
+    "mtime": 1782886255.0595977,
+    "ast_hash": "dc82a474991d607a23b9f549b84ee339",
+    "semantic_hash": "dc82a474991d607a23b9f549b84ee339"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/subcommands/whatsapp.py": {
+    "mtime": 1782886255.0596516,
+    "ast_hash": "1234477e9ec8a1726f54c38299236d9f",
+    "semantic_hash": "1234477e9ec8a1726f54c38299236d9f"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/suggestions_cmd.py": {
+    "mtime": 1782886255.0597413,
+    "ast_hash": "3fcd7124131b2afe87f9e00825a4ca96",
+    "semantic_hash": "3fcd7124131b2afe87f9e00825a4ca96"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/telegram_managed_bot.py": {
+    "mtime": 1782886255.0598583,
+    "ast_hash": "471305062074d71d2db74a9c390060f7",
+    "semantic_hash": "471305062074d71d2db74a9c390060f7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/timeouts.py": {
+    "mtime": 1782886255.0599256,
+    "ast_hash": "1c0964bab56503d7d03c154c695e8b7f",
+    "semantic_hash": "1c0964bab56503d7d03c154c695e8b7f"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/tips.py": {
+    "mtime": 1782886255.060083,
+    "ast_hash": "0c3f2c1e857ef1dfed11504018cad04c",
+    "semantic_hash": "0c3f2c1e857ef1dfed11504018cad04c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/tools_config.py": {
+    "mtime": 1782886255.060473,
+    "ast_hash": "c20de2001b55191e190edf96d1655e32",
+    "semantic_hash": "c20de2001b55191e190edf96d1655e32"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/toolset_validation.py": {
+    "mtime": 1782886255.060547,
+    "ast_hash": "d290fe5b8c198f871e1620b3de996c9f",
+    "semantic_hash": "d290fe5b8c198f871e1620b3de996c9f"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/uninstall.py": {
+    "mtime": 1782886255.0606833,
+    "ast_hash": "497f3fed28fc93d21ae776e7182af10d",
+    "semantic_hash": "497f3fed28fc93d21ae776e7182af10d"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/voice.py": {
+    "mtime": 1782886255.0608115,
+    "ast_hash": "096f2afd7c246144a18ed0f94d926c8c",
+    "semantic_hash": "096f2afd7c246144a18ed0f94d926c8c"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/web_git.py": {
+    "mtime": 1782886255.0609565,
+    "ast_hash": "a60543020a3af2d7b26cc71d62cade41",
+    "semantic_hash": "a60543020a3af2d7b26cc71d62cade41"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/web_server.py": {
+    "mtime": 1782886255.0622034,
+    "ast_hash": "ecca3a6463264454dd43028465b07e53",
+    "semantic_hash": "ecca3a6463264454dd43028465b07e53"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/webhook.py": {
+    "mtime": 1782886255.0623477,
+    "ast_hash": "0e19053026cd3b7d5cabf6d04f2f2c57",
+    "semantic_hash": "0e19053026cd3b7d5cabf6d04f2f2c57"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/win_pty_bridge.py": {
+    "mtime": 1782886255.062439,
+    "ast_hash": "251c17063e827e5fb16464e36e771eb7",
+    "semantic_hash": "251c17063e827e5fb16464e36e771eb7"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/write_approval_commands.py": {
+    "mtime": 1782886255.062513,
+    "ast_hash": "2245261bf9a440c38908676e21a6da14",
+    "semantic_hash": "2245261bf9a440c38908676e21a6da14"
+  },
+  "/Users/joseclaudio/Dev_local/lumina_integration/engines/hermes/hermes_cli/xai_retirement.py": {
+    "mtime": 1782886255.0626202,
+    "ast_hash": "48c73e0f56e55bf0b40628d7c9ac552c",
+    "semantic_hash": "48c73e0f56e55bf0b40628d7c9ac552c"
+  }
+}
